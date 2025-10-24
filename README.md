@@ -3,15 +3,15 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 3:** [Seu nome e matrícula]
+* **Nome do Aluno(a) 1:** Daniel Lucas Ulisses Magalhães
+* **Nome do Aluno(a) 2:** Daniel Christopher Souza Rodrigues
+* **Nome do Aluno(a) 3:** Kleyton Kluesriton Ferreira Pereira
 * ...
 
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+Rabisco - um app de incentivo à escrita
 
 ## Descrição do Projeto
 [Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
@@ -19,12 +19,28 @@
 ---
 
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
+Em um contexto mais digital e mais apressado, onde as comunicações acontecem por meio de redes sociais e os textos escritos não costumam ser estruturados e pensados de maneira reflexiva, insere-se o Rabisco, que busca desenvolver aspectos linguísticos e criativos dos usuários mediante a escrita, utilizando aspectos interativos e dinâmicos, como sistema de pontuação, ofensiva de escrita, prompts de escrita.
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
+- [ ] Login: Como usuário, eu quero fazer login na plataforma para acessar as funcionalidades da plataforma com os meus dados já feitos anteriormente
+- [ ] Cadastro: Como usuário, eu quero fazer cadastro na plataforma para acessar as funcionalidades disponíveis na plataforma
+- [ ] Editar dados: Como usuário, eu quero editar meus dados para deixá-los mais lógicos para mim.
+- [ ] Criar texto livre: Como usuário, eu quero criar um novo texto de tema livre para registrar meus pensamentos e ideias a qualquer momento.
+- [ ] Texto com base em prompt: Como usuário, eu quero escrever um texto com base em um prompt sugerido para ter uma inspiração e um ponto de partida para a minha escrita.
+- [ ] Texto do diário: Como usuário, eu quero escrever no meu diário sobre como foi meu dia para registrar acontecimentos e experiências.
+- [ ] Excluir texto: Como usuário, eu quero excluir um texto permanentemente para remover rascunhos ou escritos que não são mais relevantes.
+- [ ] Ler textos: Como usuário, eu quero acessar o meu histórico de textos salvos para revisitar, buscar por palavras-chave ou reler as minhas escritas antigas.
+- [ ] Editar textos: Como usuário, eu quero editar o conteúdo de um texto salvo para corrigir erros ou refinar minhas ideias e organização.
+- [ ] Adicionar tags: Como usuário, eu quero associar tags já pré definidas aos meus textos para facilitar a organização e a filtragem temática dos meus escritos.
+- [ ] Adicionar foto: Como usuário, eu quero adicionar uma foto ao meu texto para registrar meus pensamentos e momentos de forma mais completa e visual.
+- [ ] Editar foto: Como usuário, eu quero editar a foto associada ao meu texto para alterar a foto para outra que faça mais sentido.
+- [ ] Deletar foto: Como usuário, eu quero deletar a foto associada ao meu texto para atualizar o conteúdo ou corrigir erros.
+- [ ] Customizar texto: Como usuário, eu quero poder destacar (sublinhar, negrito, itálico) partes do meu texto para enfatizar ideias importantes e facilitar a minha organização visual.
+- [ ] Compartilhar texto: Como usuário, eu quero compartilhar meus textos com outras pessoas por meio de redes sociais para ouvir opiniões e transmitir minhas ideias.
+- [ ] Ofensiva: Como usuário, eu quero ter minha "ofensiva de escrita" atualizada automaticamente para ser motivado a manter o hábito diário.
+- [ ] Pontuação e estatística: Como usuário, eu quero visualizar um sistema de pontuação e estatísticas sobre minha escrita para acompanhar meu progresso e criatividade.
+- [ ] Customizar aplicativo: Como usuário, eu quero personalizar a aparência do aplicativo (usando um tema escuro) para melhorar o meu conforto visual durante a escrita.
+- [ ] Lembretes: Como usuário, eu quero configurar lembretes diários personalizados para ser notificado e motivado a manter minha ofensiva de escrita.
+- [ ] Feedbacks do sistema: Como usuário, quero receber feedback visual ou textual ao salvar, editar ou excluir textos, para saber que minhas ações foram concluídas com sucesso.
 
 ---
 
