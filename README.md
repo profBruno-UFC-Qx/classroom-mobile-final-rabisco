@@ -6,12 +6,14 @@
 * **Nome do Aluno(a) 1:** Daniel Lucas Ulisses Magalhães
 * **Nome do Aluno(a) 2:** Daniel Christopher Souza Rodrigues
 * **Nome do Aluno(a) 3:** Kleyton Kluesriton Ferreira Pereira
-* ...
+* **Nome do Aluno(a) 4:** João Evangelista de Souza Alves *(Já fez a disciplina de Desenvolvimento de Dispositivos Móveis, mas está na equipe de Projeto Integrado III)*
 
 ---
 
 ## Título do Projeto
 Rabisco - um app de incentivo à escrita
+
+[Link para o repositório](https://github.com/odanielchristopher/rabisco)
 
 ## Descrição do Projeto
 O Rabisco é um app que incentiva os usuário a terem o hábito de escrever. Ele é destinado para usuários com idades entre 10 e 15 anos, mas pode abranger faixas de idades mais altas. Para fazer o usuário manter o hábito ele conta com técnicas de gameficação. Suas principais funcioanlidades são voltadas para criação de textos livres - onde o usuário escreve sobre o que quiser, prompts de escrita - onde o usuário escreve um texto baseado em um tema pré-definido pelo prompt (como por exemplo: escreva sobre como seria o seu dia perfeito) e diário - onde o usuário relata como foi o seu dia.
